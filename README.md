@@ -19,4 +19,4 @@
 
 Descobrindo o mundo da programação e suas tecnologias. Cursando Desenvolvimento de Sistemas - Proz. 🧑🏻‍🎓
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=pie)](https://github.com/joaoolisboa/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joaoolisboa&layout=pie)](https://github.com/joaoolisboa/github-readme-stats)
